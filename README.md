@@ -74,7 +74,7 @@ Follow these steps to set up the project locally:
 - **Delete a user**: ```DELETE /users/<id>```
     - Deletes the specified user and returns a 204 No Content response.
  
-**Post Endpoints**
+### Post Endpoints ### 
 - **Get all posts:** ```GET /posts```
     - Returns a list of all posts with their titles, contents, and creation dates.
 - **Create a new post**: ```POST /posts```
