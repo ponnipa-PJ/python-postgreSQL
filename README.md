@@ -59,7 +59,7 @@ Follow these steps to set up the project locally:
   ```json
   {
   "name": "John Doe",
-  "birthday": "2000-01-01"
+  "birthDate": "2000-01-01"
   }
   ```
     - Returns the created user information.
@@ -67,7 +67,7 @@ Follow these steps to set up the project locally:
   ```json
   {
   "name": "Jane Doe",
-  "birthday": "1995-05-05"
+  "birthDate": "1995-05-05"
   }
   ```
     - Returns the updated user information.
